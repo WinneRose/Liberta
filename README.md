@@ -1,3 +1,5 @@
+Check on devpost: https://devpost.com/software/liberta-the-social-media-that-managed-by-users
+
 Welcome to the social media that isn't behavior like governments.
 
 ## What is Liberta?
@@ -171,4 +173,4 @@ Our codes are ready to go but our time was not enough to deploy and test it. So 
 
 Demo Link: [https://happy-swartz-bfcf26.netlify.app/](https://happy-swartz-bfcf26.netlify.app/)
 GitHub Repo: [https://github.com/Liberta-Network/Liberta-Test](https://github.com/WinneRose/Liberta)
-https://devpost.com/software/liberta-the-social-media-that-managed-by-users
+
